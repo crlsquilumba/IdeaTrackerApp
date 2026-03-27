@@ -5,6 +5,19 @@ metadata:
   description: Sin descripción
   annotations:
     github.com/project-slug: crlsquilumba/IdeaTrackerApp
+    github.com/branch-count: "3"
+    github.com/has-gitflow: "false"
+    github.com/default-branch: "main"
+  links:
+    - url: https://github.com/crlsquilumba/IdeaTrackerApp/tree/main
+      title: "✅ main — producción"
+      icon: github
+    - url: https://github.com/crlsquilumba/IdeaTrackerApp/tree/tembo/feat/improve-maintainability
+      title: "🌿 tembo/feat/improve-maintainability"
+      icon: github
+    - url: https://github.com/crlsquilumba/IdeaTrackerApp/tree/tembo/feature/improve-code-simplify
+      title: "🌿 tembo/feature/improve-code-simplify"
+      icon: github
 spec:
   type: library
   lifecycle: experimental
